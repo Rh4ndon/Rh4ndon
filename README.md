@@ -24,7 +24,7 @@ Out of 29 successfully completed projects, including this Portfolio, I've handpi
 - **School E-Health Monitoring System**: A system for monitoring the health of students in schools.
 
 <div id="header" align="center">
-  <img src="https://rhandon.tech/assets/images/site-logo/27projects.png" alt="Screenshot of Projects List" width="600"/>
+  <img src="projects.png" alt="Screenshot of Projects List" width="600"/>
 </div>
 
 ## Skills
@@ -35,4 +35,16 @@ Out of 29 successfully completed projects, including this Portfolio, I've handpi
 - **Cybersecurity**: Understanding of security measures and protocols.
 - **Microcontrollers**: Experience with microcontroller projects and IoT.
 - **RCB Technician**: Skilled in troubleshooting fiber optic and coaxial cables, including resplicing.
-- **Languages**: JavaScript, Python
+- **Languages**: JavaScript, Python, PHP
+- **Frameworks**: LAMP Stack, Bootstrap
+- **Tools**: AWS EC2, Docker, Git
+
+## Portfolio
+
+You can explore more of my work and projects on my [portfolio website](https://rhandon.tech).
+
+## Contact
+
+Feel free to reach out to me via email at daverhandon@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dave-rhandon-blas-b670b1279) or [Facebook](https://www.facebook.com/people/Rhandon-Dave/100010657007416/).
+
+Thank you for visiting my GitHub profile!
