@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm [Your Name], a passionate Software Developer with a strong background in LAMP Stack Development. I specialize in Backend Development and have a keen interest in Networking and Cybersecurity.
+Hi there! I'm Dave Rhandon Blas, a passionate Software Developer with a strong background in LAMP Stack Development. I specialize in Backend Development and have a keen interest in Networking and Cybersecurity.
 
 ## About Me
 
