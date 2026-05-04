@@ -41,7 +41,7 @@ I completed 32 web and mobile app projects. While primarily software-focused, th
 - **Field Network Infrastructure**: 1 year of professional field experience troubleshooting coaxial cable networks (taps, amplifiers, power supplies) and fiber optic systems (NAP troubleshooting, **fusion splicing**).
 - **Network Configuration & Management**: Hands-on experience configuring **MikroTik RouterOS** (firewall rules, queues, DHCP), and using **Mikhmon** for hotspot management.
 - **Cybersecurity**: Academic focus on network security principles, protocols, and best practices.
-- **Systems & Server Administration**: Linux Daily driver since 2024 comfortable with the command line, shell scripting, system administration, and native network troubleshooting has experience in Windows Server Manager, Active Directory, and **Windows Server 2019**.
+- **Systems & Server Administration**: Linux Daily driver since 2024 comfortable with the command line, shell scripting, system administration, and native network troubleshooting, has experience in Windows Server Manager, Active Directory, and **Windows Server 2019**.
   [[View SAM Test Package]](https://docs.google.com/spreadsheets/d/1aegJ2hnGipW6yB5dtb8fsXqBRzv5ithXMNH4DNKGWXM/edit?usp=sharing)
 - **Network Monitoring & Scripting**: Building cross-platform monitoring tools with **Python**. Bash scripting for automation and system tasks.
 - **Infrastructure & Protocols**: Practical knowledge of TCP/IP, DNS, DHCP, VLANs, wireless networking (WiFi), and physical layer transmission (coaxial, fiber optic).
