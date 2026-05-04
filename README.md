@@ -37,31 +37,15 @@ I completed 32 web and mobile app projects. While primarily software-focused, th
 
 ## Technical Skills
 
-**Network Infrastructure**
-Fiber optic splicing (fusion splicer), coaxial cable troubleshooting, NAP troubleshooting
-
-**Network Configuration & Management**
-MikroTik RouterOS (firewall, queues, DHCP), Mikhmon, TCP/IP, DNS, VLANs, WiFi
-
-**Network Security**
-Security protocols, secure network design, firewall configuration, network monitoring
-
-**Systems & Server Administration**
-Linux (daily user since 2024), Windows Server Manager, Active Directory, GPO
-[[View SAM Test Package]](https://docs.google.com/spreadsheets/d/1aegJ2hnGipW6yB5dtb8fsXqBRzv5ithXMNH4DNKGWXM/edit?usp=sharing)
-
-**Scripting & Automation**
-Python, Bash, cross-platform tool development, shell scripting
-
-**Cloud & Virtualization**
-AWS EC2, Docker
-
-**Supporting Development Skills**
-PHP (Laravel), JavaScript, Django REST, Git, SQL
-
-## Portfolio
-
-You can find more about my work and projects on my portfolio website: [rhandon.tech](https://rhandon.tech).
+- **Network Design & Architecture**: Formal education in network design principles, routing protocols, and network security architecture.
+- **Field Network Infrastructure**: 1 year of professional field experience troubleshooting coaxial cable networks (taps, amplifiers, power supplies) and fiber optic systems (NAP troubleshooting, **fusion splicing**).
+- **Network Configuration & Management**: Hands-on experience configuring **MikroTik RouterOS** (firewall rules, queues, DHCP), and using **Mikhmon** for hotspot management.
+- **Cybersecurity**: Academic focus on network security principles, protocols, and best practices.
+- **Systems & Server Administration**: Daily driver since 2024 comfortable with the command line, shell scripting, system administration, and native network troubleshooting.
+  [[View SAM Test Package]](https://docs.google.com/spreadsheets/d/1aegJ2hnGipW6yB5dtb8fsXqBRzv5ithXMNH4DNKGWXM/edit?usp=sharing)
+- **Network Monitoring & Scripting**: Building cross-platform monitoring tools with **Python**. Bash scripting for automation and system tasks.
+- **Infrastructure & Protocols**: Practical knowledge of TCP/IP, DNS, DHCP, VLANs, wireless networking (WiFi), and physical layer transmission (coaxial, fiber optic).
+- **Supporting Knowledge**: Experience with **Cloud** services (AWS EC2) and **Git** for version control.
 
 ## Contact
 
