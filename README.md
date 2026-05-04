@@ -8,7 +8,7 @@ Hi there! I'm Rhandon, a graduating **Network Engineer** with real-world field e
 
 ## About Me
 
-I'm a network professional who's equally comfortable in a manhole with a fusion splicer and at a terminal configuring a MikroTik router. With a year of field experience as a cable and internet technician, a BSIT degree in Networks and Cybersecurity (graduating August 2026), and daily Linux use since 2024, I bring practical, hands-on knowledge to every layer of the network stack. I build tools, troubleshoot physical infrastructure, and provision equipment—all with a focus on reliable, secure, and maintainable connectivity.
+I'm a network professional who's equally comfortable in climbing poles with a fusion splicer and at a terminal configuring a MikroTik router. With a year of field experience as a cable and internet technician, a BSIT degree in Networks and Cybersecurity (graduating August 2026), and daily Linux use since 2024, I bring practical, hands-on knowledge to every layer of the network stack. I build tools, troubleshoot physical infrastructure, and provision equipment all with a focus on reliable, secure, and maintainable connectivity.
 
 ## Featured Network Engineering Projects & Experience
 
