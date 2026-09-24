@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Rhandon — a **Network Engineer & Fullstack Developer** who bridges the gap between physical infrastructure and software systems. Whether I'm fusion-splicing fiber at a NAP or building a backend API with Native PHP, I bring a full-stack mindset to every layer of the stack.
+Hi there! I'm Rhandon — a **Network Engineer & Software Engineer** who bridges the gap between physical infrastructure and software systems. Whether I'm fusion-splicing fiber at a NAP or building a backend API with Native PHP, I bring a full-stack mindset to every layer of the stack.
 
 _**BSIT in Networks & Cybersecurity** | Graduated **Magna Cum Laude** — August 20, 2026_
 
