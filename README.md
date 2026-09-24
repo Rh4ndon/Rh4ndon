@@ -2,7 +2,9 @@
 
 Hi there! I'm Rhandon — a **Network Engineer & Fullstack Developer** who bridges the gap between physical infrastructure and software systems. Whether I'm fusion-splicing fiber at a NAP or building a backend API with Native PHP, I bring a full-stack mindset to every layer of the stack.
 
-_BSIT in Networks & Cybersecurity | Expected Graduation: August 2026_
+_**BSIT in Networks & Cybersecurity** | Graduated **Magna Cum Laude** — August 20, 2026_
+
+> _"Life has no undo. But you can always commit to a better version."_
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd5OHRpOTQ3Zm41MnZybXZrc2V4eHF0cjBqbmtsZzBiemt3aWloeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KyFESPs2Mq72aTK8n5/giphy.gif" width="600"/>
@@ -10,7 +12,7 @@ _BSIT in Networks & Cybersecurity | Expected Graduation: August 2026_
 
 ## About Me
 
-I'm a hybrid professional who's equally comfortable climbing poles with a fusion splicer, configuring a MikroTik router at the terminal, and writing backend logic in PHP. With a year of field experience as a cable and internet technician, a BSIT degree in Networks and Cybersecurity, and 32 software projects delivered, I bring rare versatility: I understand networks from the physical layer up, and I build the applications that run on top of them. Daily Linux user since 2024.
+I'm a hybrid professional who's equally comfortable climbing poles with a fusion splicer, configuring a MikroTik router at the terminal, and writing backend logic in PHP. From farm boy to **Magna Cum Laude**—I funded my own education through freelance development and field technician work, applying every MMDC lesson to real-world problems the very next day. With a year of field experience as a cable and internet technician, a BSIT degree in Networks and Cybersecurity, and 32 software projects delivered, I bring rare versatility: I understand networks from the physical layer up, and I build the applications that run on top of them. Daily Linux user since 2024.
 
 ---
 
@@ -58,7 +60,11 @@ I've provisioned networks, troubleshooted physical infrastructure, and built mon
 ## 🎓 Education
 
 **Bachelor of Science in Information Technology** — Major in Networks and Cybersecurity  
-_Mapúa Malayan Digital College_ | Aug 2022 – Present | _Expected Graduation: August 2026_
+_Mapúa Malayan Digital College_ | Aug 2022 – Aug 2026  
+**Graduated Magna Cum Laude — August 20, 2026**
+
+**Bachelor of Science in Aeronautical Engineering** _(Undergraduate — 2nd Year)_  
+_Holy Angel University_ | Jun 2018 – Aug 2019
 
 ---
 
